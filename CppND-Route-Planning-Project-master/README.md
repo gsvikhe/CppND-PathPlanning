@@ -4,18 +4,9 @@
 
 <img src="wpi_map.png" width="600" height="530" />
 
-*The path created between my home & my school (Worcester Polytechnic Institute, Worcester, MA)*
 
-## Cloning
 
-When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
-```
-git clone https://github.com/milan-r-shah/CppND-Route-Planning-Project.git --recurse-submodules
-```
-or with SSH:
-```
-git clone git@github.com:milan-r-shah/CppND-Route-Planning-Project.git --recurse-submodules
-```
+
 
 ## Dependencies for Running Locally
 * cmake >= 3.11.3
